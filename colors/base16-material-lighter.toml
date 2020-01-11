@@ -1,0 +1,19 @@
+# Base16 Material Lighter - ncspot color config
+# Nate Peterson
+
+[theme]
+background = "#fafafa"
+primary = "#80cbc4"
+secondary = "#e7eaec"
+title = "#80cbc4"
+playing = "#80cbc4"
+playing_bg = "#fafafa"
+highlight = "#80cbc4"
+highlight_bg = "#cceae7"
+error = "#80cbc4"
+error_bg = "#ffffff"
+statusbar = "#fafafa"
+statusbar_progress = "#80cbc4"
+statusbar_bg = "#80cbc4"
+cmdline = "#80cbc4"
+cmdline_bg = "#fafafa"

@@ -1,0 +1,19 @@
+# Base16 One Light - ncspot color config
+# Daniel Pfeifer (http://github.com/purpleKarrot)
+
+[theme]
+background = "#fafafa"
+primary = "#383a42"
+secondary = "#f0f0f1"
+title = "#202227"
+playing = "#202227"
+playing_bg = "#fafafa"
+highlight = "#383a42"
+highlight_bg = "#e5e5e6"
+error = "#383a42"
+error_bg = "#090a0b"
+statusbar = "#fafafa"
+statusbar_progress = "#202227"
+statusbar_bg = "#202227"
+cmdline = "#383a42"
+cmdline_bg = "#fafafa"

@@ -1,0 +1,19 @@
+# Base16 Marrakesh - ncspot color config
+# Alexandre Gavioli (http://github.com/Alexx2/)
+
+[theme]
+background = "#201602"
+primary = "#948e48"
+secondary = "#302e00"
+title = "#ccc37a"
+playing = "#ccc37a"
+playing_bg = "#201602"
+highlight = "#948e48"
+highlight_bg = "#5f5b17"
+error = "#948e48"
+error_bg = "#faf0a5"
+statusbar = "#201602"
+statusbar_progress = "#ccc37a"
+statusbar_bg = "#ccc37a"
+cmdline = "#948e48"
+cmdline_bg = "#201602"

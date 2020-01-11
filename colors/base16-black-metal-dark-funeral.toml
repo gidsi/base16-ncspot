@@ -1,0 +1,19 @@
+# Base16 Black Metal (Dark Funeral) - ncspot color config
+# metalelf0 (https://github.com/metalelf0)
+
+[theme]
+background = "#000000"
+primary = "#c1c1c1"
+secondary = "#121212"
+title = "#999999"
+playing = "#999999"
+playing_bg = "#000000"
+highlight = "#c1c1c1"
+highlight_bg = "#222222"
+error = "#c1c1c1"
+error_bg = "#c1c1c1"
+statusbar = "#000000"
+statusbar_progress = "#999999"
+statusbar_bg = "#999999"
+cmdline = "#c1c1c1"
+cmdline_bg = "#000000"

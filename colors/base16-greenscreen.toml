@@ -1,0 +1,19 @@
+# Base16 Green Screen - ncspot color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+background = "#001100"
+primary = "#00bb00"
+secondary = "#003300"
+title = "#00dd00"
+playing = "#00dd00"
+playing_bg = "#001100"
+highlight = "#00bb00"
+highlight_bg = "#005500"
+error = "#00bb00"
+error_bg = "#00ff00"
+statusbar = "#001100"
+statusbar_progress = "#00dd00"
+statusbar_bg = "#00dd00"
+cmdline = "#00bb00"
+cmdline_bg = "#001100"

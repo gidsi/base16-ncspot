@@ -1,0 +1,19 @@
+# Base16 Macintosh - ncspot color config
+# Rebecca Bettencourt (http://www.kreativekorp.com)
+
+[theme]
+background = "#000000"
+primary = "#c0c0c0"
+secondary = "#404040"
+title = "#c0c0c0"
+playing = "#c0c0c0"
+playing_bg = "#000000"
+highlight = "#c0c0c0"
+highlight_bg = "#404040"
+error = "#c0c0c0"
+error_bg = "#ffffff"
+statusbar = "#000000"
+statusbar_progress = "#c0c0c0"
+statusbar_bg = "#c0c0c0"
+cmdline = "#c0c0c0"
+cmdline_bg = "#000000"

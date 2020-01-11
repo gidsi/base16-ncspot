@@ -1,0 +1,19 @@
+# Base16 Edge Dark - ncspot color config
+# cjayross (https://github.com/cjayross)
+
+[theme]
+background = "#262729"
+primary = "#b7bec9"
+secondary = "#88909f"
+title = "#d390e7"
+playing = "#d390e7"
+playing_bg = "#262729"
+highlight = "#b7bec9"
+highlight_bg = "#b7bec9"
+error = "#b7bec9"
+error_bg = "#3e4249"
+statusbar = "#262729"
+statusbar_progress = "#d390e7"
+statusbar_bg = "#d390e7"
+cmdline = "#b7bec9"
+cmdline_bg = "#262729"

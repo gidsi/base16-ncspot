@@ -1,0 +1,19 @@
+# Base16 Unikitty Light - ncspot color config
+# Josh W Lewis (@joshwlewis)
+
+[theme]
+background = "#ffffff"
+primary = "#6c696e"
+secondary = "#e1e1e2"
+title = "#4f4b51"
+playing = "#4f4b51"
+playing_bg = "#ffffff"
+highlight = "#6c696e"
+highlight_bg = "#c4c3c5"
+error = "#6c696e"
+error_bg = "#322d34"
+statusbar = "#ffffff"
+statusbar_progress = "#4f4b51"
+statusbar_bg = "#4f4b51"
+cmdline = "#6c696e"
+cmdline_bg = "#ffffff"

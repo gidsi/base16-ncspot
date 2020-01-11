@@ -1,0 +1,19 @@
+# Base16 Porple - ncspot color config
+# Niek den Breeje (https://github.com/AuditeMarlow)
+
+[theme]
+background = "#292c36"
+primary = "#d8d8d8"
+secondary = "#333344"
+title = "#e8e8e8"
+playing = "#e8e8e8"
+playing_bg = "#292c36"
+highlight = "#d8d8d8"
+highlight_bg = "#474160"
+error = "#d8d8d8"
+error_bg = "#f8f8f8"
+statusbar = "#292c36"
+statusbar_progress = "#e8e8e8"
+statusbar_bg = "#e8e8e8"
+cmdline = "#d8d8d8"
+cmdline_bg = "#292c36"

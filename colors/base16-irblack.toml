@@ -1,0 +1,19 @@
+# Base16 IR Black - ncspot color config
+# Timothée Poisot (http://timotheepoisot.fr)
+
+[theme]
+background = "#000000"
+primary = "#b5b3aa"
+secondary = "#242422"
+title = "#d9d7cc"
+playing = "#d9d7cc"
+playing_bg = "#000000"
+highlight = "#b5b3aa"
+highlight_bg = "#484844"
+error = "#b5b3aa"
+error_bg = "#fdfbee"
+statusbar = "#000000"
+statusbar_progress = "#d9d7cc"
+statusbar_bg = "#d9d7cc"
+cmdline = "#b5b3aa"
+cmdline_bg = "#000000"

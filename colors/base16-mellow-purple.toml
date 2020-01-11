@@ -1,0 +1,19 @@
+# Base16 Mellow Purple - ncspot color config
+# gidsi
+
+[theme]
+background = "#1e0528"
+primary = "#ffeeff"
+secondary = "#1a092d"
+title = "#ffeeff"
+playing = "#ffeeff"
+playing_bg = "#1e0528"
+highlight = "#ffeeff"
+highlight_bg = "#331354"
+error = "#ffeeff"
+error_bg = "#f8c0ff"
+statusbar = "#1e0528"
+statusbar_progress = "#ffeeff"
+statusbar_bg = "#ffeeff"
+cmdline = "#ffeeff"
+cmdline_bg = "#1e0528"

@@ -1,0 +1,19 @@
+# Base16 London Tube - ncspot color config
+# Jan T. Sott
+
+[theme]
+background = "#231f20"
+primary = "#d9d8d8"
+secondary = "#1c3f95"
+title = "#e7e7e8"
+playing = "#e7e7e8"
+playing_bg = "#231f20"
+highlight = "#d9d8d8"
+highlight_bg = "#5a5758"
+error = "#d9d8d8"
+error_bg = "#ffffff"
+statusbar = "#231f20"
+statusbar_progress = "#e7e7e8"
+statusbar_bg = "#e7e7e8"
+cmdline = "#d9d8d8"
+cmdline_bg = "#231f20"

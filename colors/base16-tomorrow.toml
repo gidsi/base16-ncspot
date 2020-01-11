@@ -1,0 +1,19 @@
+# Base16 Tomorrow - ncspot color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+background = "#ffffff"
+primary = "#4d4d4c"
+secondary = "#e0e0e0"
+title = "#282a2e"
+playing = "#282a2e"
+playing_bg = "#ffffff"
+highlight = "#4d4d4c"
+highlight_bg = "#d6d6d6"
+error = "#4d4d4c"
+error_bg = "#1d1f21"
+statusbar = "#ffffff"
+statusbar_progress = "#282a2e"
+statusbar_bg = "#282a2e"
+cmdline = "#4d4d4c"
+cmdline_bg = "#ffffff"

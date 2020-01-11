@@ -1,0 +1,19 @@
+# Base16 OceanicNext - ncspot color config
+# https://github.com/voronianski/oceanic-next-color-scheme
+
+[theme]
+background = "#1b2b34"
+primary = "#c0c5ce"
+secondary = "#343d46"
+title = "#cdd3de"
+playing = "#cdd3de"
+playing_bg = "#1b2b34"
+highlight = "#c0c5ce"
+highlight_bg = "#4f5b66"
+error = "#c0c5ce"
+error_bg = "#d8dee9"
+statusbar = "#1b2b34"
+statusbar_progress = "#cdd3de"
+statusbar_bg = "#cdd3de"
+cmdline = "#c0c5ce"
+cmdline_bg = "#1b2b34"

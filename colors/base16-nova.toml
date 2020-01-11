@@ -1,0 +1,19 @@
+# Base16 Nova - ncspot color config
+# George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+
+[theme]
+background = "#3c4c55"
+primary = "#c5d4dd"
+secondary = "#556873"
+title = "#899ba6"
+playing = "#899ba6"
+playing_bg = "#3c4c55"
+highlight = "#c5d4dd"
+highlight_bg = "#6a7d89"
+error = "#c5d4dd"
+error_bg = "#556873"
+statusbar = "#3c4c55"
+statusbar_progress = "#899ba6"
+statusbar_bg = "#899ba6"
+cmdline = "#c5d4dd"
+cmdline_bg = "#3c4c55"

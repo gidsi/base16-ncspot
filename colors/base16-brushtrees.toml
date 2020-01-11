@@ -1,0 +1,19 @@
+# Base16 Brush Trees - ncspot color config
+# Abraham White &lt;abelincoln.white@gmail.com&gt;
+
+[theme]
+background = "#e3efef"
+primary = "#6d828e"
+secondary = "#c9dbdc"
+title = "#5a6d7a"
+playing = "#5a6d7a"
+playing_bg = "#e3efef"
+highlight = "#6d828e"
+highlight_bg = "#b0c5c8"
+error = "#6d828e"
+error_bg = "#485867"
+statusbar = "#e3efef"
+statusbar_progress = "#5a6d7a"
+statusbar_bg = "#5a6d7a"
+cmdline = "#6d828e"
+cmdline_bg = "#e3efef"

@@ -1,0 +1,19 @@
+# Base16 OneDark - ncspot color config
+# Lalit Magant (http://github.com/tilal6991)
+
+[theme]
+background = "#282c34"
+primary = "#abb2bf"
+secondary = "#353b45"
+title = "#b6bdca"
+playing = "#b6bdca"
+playing_bg = "#282c34"
+highlight = "#abb2bf"
+highlight_bg = "#3e4451"
+error = "#abb2bf"
+error_bg = "#c8ccd4"
+statusbar = "#282c34"
+statusbar_progress = "#b6bdca"
+statusbar_bg = "#b6bdca"
+cmdline = "#abb2bf"
+cmdline_bg = "#282c34"

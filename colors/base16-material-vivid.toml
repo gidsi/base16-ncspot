@@ -1,0 +1,19 @@
+# Base16 Material Vivid - ncspot color config
+# joshyrobot
+
+[theme]
+background = "#202124"
+primary = "#80868b"
+secondary = "#27292c"
+title = "#9e9e9e"
+playing = "#9e9e9e"
+playing_bg = "#202124"
+highlight = "#80868b"
+highlight_bg = "#323639"
+error = "#80868b"
+error_bg = "#ffffff"
+statusbar = "#202124"
+statusbar_progress = "#9e9e9e"
+statusbar_bg = "#9e9e9e"
+cmdline = "#80868b"
+cmdline_bg = "#202124"

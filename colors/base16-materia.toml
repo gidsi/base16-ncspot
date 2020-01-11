@@ -1,0 +1,19 @@
+# Base16 Materia - ncspot color config
+# Defman21
+
+[theme]
+background = "#263238"
+primary = "#cdd3de"
+secondary = "#2c393f"
+title = "#d5dbe5"
+playing = "#d5dbe5"
+playing_bg = "#263238"
+highlight = "#cdd3de"
+highlight_bg = "#37474f"
+error = "#cdd3de"
+error_bg = "#ffffff"
+statusbar = "#263238"
+statusbar_progress = "#d5dbe5"
+statusbar_bg = "#d5dbe5"
+cmdline = "#cdd3de"
+cmdline_bg = "#263238"

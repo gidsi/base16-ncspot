@@ -1,0 +1,19 @@
+# Base16 Nord - ncspot color config
+# arcticicestudio
+
+[theme]
+background = "#2e3440"
+primary = "#e5e9f0"
+secondary = "#3b4252"
+title = "#eceff4"
+playing = "#eceff4"
+playing_bg = "#2e3440"
+highlight = "#e5e9f0"
+highlight_bg = "#434c5e"
+error = "#e5e9f0"
+error_bg = "#8fbcbb"
+statusbar = "#2e3440"
+statusbar_progress = "#eceff4"
+statusbar_bg = "#eceff4"
+cmdline = "#e5e9f0"
+cmdline_bg = "#2e3440"

@@ -1,0 +1,19 @@
+# Base16 Codeschool - ncspot color config
+# blockloop
+
+[theme]
+background = "#232c31"
+primary = "#9ea7a6"
+secondary = "#1c3657"
+title = "#a7cfa3"
+playing = "#a7cfa3"
+playing_bg = "#232c31"
+highlight = "#9ea7a6"
+highlight_bg = "#2a343a"
+error = "#9ea7a6"
+error_bg = "#b5d8f6"
+statusbar = "#232c31"
+statusbar_progress = "#a7cfa3"
+statusbar_bg = "#a7cfa3"
+cmdline = "#9ea7a6"
+cmdline_bg = "#232c31"

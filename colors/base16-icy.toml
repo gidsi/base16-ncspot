@@ -1,0 +1,19 @@
+# Base16 Icy Dark - ncspot color config
+# icyphox (https://icyphox.ga)
+
+[theme]
+background = "#021012"
+primary = "#095b67"
+secondary = "#031619"
+title = "#0c7c8c"
+playing = "#0c7c8c"
+playing_bg = "#021012"
+highlight = "#095b67"
+highlight_bg = "#041f23"
+error = "#095b67"
+error_bg = "#109cb0"
+statusbar = "#021012"
+statusbar_progress = "#0c7c8c"
+statusbar_bg = "#0c7c8c"
+cmdline = "#095b67"
+cmdline_bg = "#021012"

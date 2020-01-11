@@ -1,0 +1,19 @@
+# Base16 Brewer - ncspot color config
+# Timothée Poisot (http://github.com/tpoisot)
+
+[theme]
+background = "#0c0d0e"
+primary = "#b7b8b9"
+secondary = "#2e2f30"
+title = "#dadbdc"
+playing = "#dadbdc"
+playing_bg = "#0c0d0e"
+highlight = "#b7b8b9"
+highlight_bg = "#515253"
+error = "#b7b8b9"
+error_bg = "#fcfdfe"
+statusbar = "#0c0d0e"
+statusbar_progress = "#dadbdc"
+statusbar_bg = "#dadbdc"
+cmdline = "#b7b8b9"
+cmdline_bg = "#0c0d0e"

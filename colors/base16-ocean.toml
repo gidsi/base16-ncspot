@@ -1,0 +1,19 @@
+# Base16 Ocean - ncspot color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+background = "#2b303b"
+primary = "#c0c5ce"
+secondary = "#343d46"
+title = "#dfe1e8"
+playing = "#dfe1e8"
+playing_bg = "#2b303b"
+highlight = "#c0c5ce"
+highlight_bg = "#4f5b66"
+error = "#c0c5ce"
+error_bg = "#eff1f5"
+statusbar = "#2b303b"
+statusbar_progress = "#dfe1e8"
+statusbar_bg = "#dfe1e8"
+cmdline = "#c0c5ce"
+cmdline_bg = "#2b303b"

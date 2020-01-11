@@ -1,0 +1,19 @@
+# Base16 Cupcake - ncspot color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+background = "#fbf1f2"
+primary = "#8b8198"
+secondary = "#f2f1f4"
+title = "#72677e"
+playing = "#72677e"
+playing_bg = "#fbf1f2"
+highlight = "#8b8198"
+highlight_bg = "#d8d5dd"
+error = "#8b8198"
+error_bg = "#585062"
+statusbar = "#fbf1f2"
+statusbar_progress = "#72677e"
+statusbar_bg = "#72677e"
+cmdline = "#8b8198"
+cmdline_bg = "#fbf1f2"

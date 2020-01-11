@@ -1,0 +1,19 @@
+# Base16 Ashes - ncspot color config
+# Jannik Siebert (https://github.com/janniks)
+
+[theme]
+background = "#1c2023"
+primary = "#c7ccd1"
+secondary = "#393f45"
+title = "#dfe2e5"
+playing = "#dfe2e5"
+playing_bg = "#1c2023"
+highlight = "#c7ccd1"
+highlight_bg = "#565e65"
+error = "#c7ccd1"
+error_bg = "#f3f4f5"
+statusbar = "#1c2023"
+statusbar_progress = "#dfe2e5"
+statusbar_bg = "#dfe2e5"
+cmdline = "#c7ccd1"
+cmdline_bg = "#1c2023"

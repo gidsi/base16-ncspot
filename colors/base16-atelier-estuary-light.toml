@@ -1,0 +1,19 @@
+# Base16 Atelier Estuary Light - ncspot color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+background = "#f4f3ec"
+primary = "#5f5e4e"
+secondary = "#e7e6df"
+title = "#302f27"
+playing = "#302f27"
+playing_bg = "#f4f3ec"
+highlight = "#5f5e4e"
+highlight_bg = "#929181"
+error = "#5f5e4e"
+error_bg = "#22221b"
+statusbar = "#f4f3ec"
+statusbar_progress = "#302f27"
+statusbar_bg = "#302f27"
+cmdline = "#5f5e4e"
+cmdline_bg = "#f4f3ec"

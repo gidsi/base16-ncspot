@@ -1,0 +1,19 @@
+# Base16 Woodland - ncspot color config
+# Jay Cornwall (https://jcornwall.com)
+
+[theme]
+background = "#231e18"
+primary = "#cabcb1"
+secondary = "#302b25"
+title = "#d7c8bc"
+playing = "#d7c8bc"
+playing_bg = "#231e18"
+highlight = "#cabcb1"
+highlight_bg = "#48413a"
+error = "#cabcb1"
+error_bg = "#e4d4c8"
+statusbar = "#231e18"
+statusbar_progress = "#d7c8bc"
+statusbar_bg = "#d7c8bc"
+cmdline = "#cabcb1"
+cmdline_bg = "#231e18"

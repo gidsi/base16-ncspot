@@ -1,0 +1,19 @@
+# Base16 Mocha - ncspot color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+background = "#3b3228"
+primary = "#d0c8c6"
+secondary = "#534636"
+title = "#e9e1dd"
+playing = "#e9e1dd"
+playing_bg = "#3b3228"
+highlight = "#d0c8c6"
+highlight_bg = "#645240"
+error = "#d0c8c6"
+error_bg = "#f5eeeb"
+statusbar = "#3b3228"
+statusbar_progress = "#e9e1dd"
+statusbar_bg = "#e9e1dd"
+cmdline = "#d0c8c6"
+cmdline_bg = "#3b3228"

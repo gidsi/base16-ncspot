@@ -1,0 +1,19 @@
+# Base16 Rebecca - ncspot color config
+# Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
+[theme]
+background = "#292a44"
+primary = "#f1eff8"
+secondary = "#663399"
+title = "#ccccff"
+playing = "#ccccff"
+playing_bg = "#292a44"
+highlight = "#f1eff8"
+highlight_bg = "#383a62"
+error = "#f1eff8"
+error_bg = "#53495d"
+statusbar = "#292a44"
+statusbar_progress = "#ccccff"
+statusbar_bg = "#ccccff"
+cmdline = "#f1eff8"
+cmdline_bg = "#292a44"

@@ -1,0 +1,19 @@
+# Base16 Bright - ncspot color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+background = "#000000"
+primary = "#e0e0e0"
+secondary = "#303030"
+title = "#f5f5f5"
+playing = "#f5f5f5"
+playing_bg = "#000000"
+highlight = "#e0e0e0"
+highlight_bg = "#505050"
+error = "#e0e0e0"
+error_bg = "#ffffff"
+statusbar = "#000000"
+statusbar_progress = "#f5f5f5"
+statusbar_bg = "#f5f5f5"
+cmdline = "#e0e0e0"
+cmdline_bg = "#000000"

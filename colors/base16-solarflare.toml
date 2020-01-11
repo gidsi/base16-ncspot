@@ -1,0 +1,19 @@
+# Base16 Solar Flare - ncspot color config
+# Chuck Harmston (https://chuck.harmston.ch)
+
+[theme]
+background = "#18262f"
+primary = "#a6afb8"
+secondary = "#222e38"
+title = "#e8e9ed"
+playing = "#e8e9ed"
+playing_bg = "#18262f"
+highlight = "#a6afb8"
+highlight_bg = "#586875"
+error = "#a6afb8"
+error_bg = "#f5f7fa"
+statusbar = "#18262f"
+statusbar_progress = "#e8e9ed"
+statusbar_bg = "#e8e9ed"
+cmdline = "#a6afb8"
+cmdline_bg = "#18262f"

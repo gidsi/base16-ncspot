@@ -1,0 +1,19 @@
+# Base16 Paraiso - ncspot color config
+# Jan T. Sott
+
+[theme]
+background = "#2f1e2e"
+primary = "#a39e9b"
+secondary = "#41323f"
+title = "#b9b6b0"
+playing = "#b9b6b0"
+playing_bg = "#2f1e2e"
+highlight = "#a39e9b"
+highlight_bg = "#4f424c"
+error = "#a39e9b"
+error_bg = "#e7e9db"
+statusbar = "#2f1e2e"
+statusbar_progress = "#b9b6b0"
+statusbar_bg = "#b9b6b0"
+cmdline = "#a39e9b"
+cmdline_bg = "#2f1e2e"

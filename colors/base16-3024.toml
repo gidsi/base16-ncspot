@@ -1,0 +1,19 @@
+# Base16 3024 - ncspot color config
+# Jan T. Sott (http://github.com/idleberg)
+
+[theme]
+background = "#090300"
+primary = "#a5a2a2"
+secondary = "#3a3432"
+title = "#d6d5d4"
+playing = "#d6d5d4"
+playing_bg = "#090300"
+highlight = "#a5a2a2"
+highlight_bg = "#4a4543"
+error = "#a5a2a2"
+error_bg = "#f7f7f7"
+statusbar = "#090300"
+statusbar_progress = "#d6d5d4"
+statusbar_bg = "#d6d5d4"
+cmdline = "#a5a2a2"
+cmdline_bg = "#090300"

@@ -1,0 +1,19 @@
+# Base16 Pico - ncspot color config
+# PICO-8 (http://www.lexaloffle.com/pico-8.php)
+
+[theme]
+background = "#000000"
+primary = "#5f574f"
+secondary = "#1d2b53"
+title = "#c2c3c7"
+playing = "#c2c3c7"
+playing_bg = "#000000"
+highlight = "#5f574f"
+highlight_bg = "#7e2553"
+error = "#5f574f"
+error_bg = "#fff1e8"
+statusbar = "#000000"
+statusbar_progress = "#c2c3c7"
+statusbar_bg = "#c2c3c7"
+cmdline = "#5f574f"
+cmdline_bg = "#000000"

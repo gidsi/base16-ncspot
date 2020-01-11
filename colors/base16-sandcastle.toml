@@ -1,0 +1,19 @@
+# Base16 Sandcastle - ncspot color config
+# George Essig (https://github.com/gessig)
+
+[theme]
+background = "#282c34"
+primary = "#a89984"
+secondary = "#2c323b"
+title = "#d5c4a1"
+playing = "#d5c4a1"
+playing_bg = "#282c34"
+highlight = "#a89984"
+highlight_bg = "#3e4451"
+error = "#a89984"
+error_bg = "#fdf4c1"
+statusbar = "#282c34"
+statusbar_progress = "#d5c4a1"
+statusbar_bg = "#d5c4a1"
+cmdline = "#a89984"
+cmdline_bg = "#282c34"

@@ -1,0 +1,19 @@
+# Base16 Gruvbox dark, soft - ncspot color config
+# Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+[theme]
+background = "#32302f"
+primary = "#d5c4a1"
+secondary = "#3c3836"
+title = "#ebdbb2"
+playing = "#ebdbb2"
+playing_bg = "#32302f"
+highlight = "#d5c4a1"
+highlight_bg = "#504945"
+error = "#d5c4a1"
+error_bg = "#fbf1c7"
+statusbar = "#32302f"
+statusbar_progress = "#ebdbb2"
+statusbar_bg = "#ebdbb2"
+cmdline = "#d5c4a1"
+cmdline_bg = "#32302f"

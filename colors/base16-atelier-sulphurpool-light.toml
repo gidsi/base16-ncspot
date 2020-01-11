@@ -1,0 +1,19 @@
+# Base16 Atelier Sulphurpool Light - ncspot color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+background = "#f5f7ff"
+primary = "#5e6687"
+secondary = "#dfe2f1"
+title = "#293256"
+playing = "#293256"
+playing_bg = "#f5f7ff"
+highlight = "#5e6687"
+highlight_bg = "#979db4"
+error = "#5e6687"
+error_bg = "#202746"
+statusbar = "#f5f7ff"
+statusbar_progress = "#293256"
+statusbar_bg = "#293256"
+cmdline = "#5e6687"
+cmdline_bg = "#f5f7ff"

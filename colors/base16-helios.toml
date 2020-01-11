@@ -1,0 +1,19 @@
+# Base16 Helios - ncspot color config
+# Alex Meyer (https://github.com/reyemxela)
+
+[theme]
+background = "#1d2021"
+primary = "#d5d5d5"
+secondary = "#383c3e"
+title = "#dddddd"
+playing = "#dddddd"
+playing_bg = "#1d2021"
+highlight = "#d5d5d5"
+highlight_bg = "#53585b"
+error = "#d5d5d5"
+error_bg = "#e5e5e5"
+statusbar = "#1d2021"
+statusbar_progress = "#dddddd"
+statusbar_bg = "#dddddd"
+cmdline = "#d5d5d5"
+cmdline_bg = "#1d2021"

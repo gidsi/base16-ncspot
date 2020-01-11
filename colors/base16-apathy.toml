@@ -1,0 +1,19 @@
+# Base16 Apathy - ncspot color config
+# Jannik Siebert (https://github.com/janniks)
+
+[theme]
+background = "#031a16"
+primary = "#81b5ac"
+secondary = "#0b342d"
+title = "#a7cec8"
+playing = "#a7cec8"
+playing_bg = "#031a16"
+highlight = "#81b5ac"
+highlight_bg = "#184e45"
+error = "#81b5ac"
+error_bg = "#d2e7e4"
+statusbar = "#031a16"
+statusbar_progress = "#a7cec8"
+statusbar_bg = "#a7cec8"
+cmdline = "#81b5ac"
+cmdline_bg = "#031a16"

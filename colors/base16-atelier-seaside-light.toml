@@ -1,0 +1,19 @@
+# Base16 Atelier Seaside Light - ncspot color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+background = "#f4fbf4"
+primary = "#5e6e5e"
+secondary = "#cfe8cf"
+title = "#242924"
+playing = "#242924"
+playing_bg = "#f4fbf4"
+highlight = "#5e6e5e"
+highlight_bg = "#8ca68c"
+error = "#5e6e5e"
+error_bg = "#131513"
+statusbar = "#f4fbf4"
+statusbar_progress = "#242924"
+statusbar_bg = "#242924"
+cmdline = "#5e6e5e"
+cmdline_bg = "#f4fbf4"

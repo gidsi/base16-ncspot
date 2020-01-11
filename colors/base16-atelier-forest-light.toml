@@ -1,0 +1,19 @@
+# Base16 Atelier Forest Light - ncspot color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+background = "#f1efee"
+primary = "#68615e"
+secondary = "#e6e2e0"
+title = "#2c2421"
+playing = "#2c2421"
+playing_bg = "#f1efee"
+highlight = "#68615e"
+highlight_bg = "#a8a19f"
+error = "#68615e"
+error_bg = "#1b1918"
+statusbar = "#f1efee"
+statusbar_progress = "#2c2421"
+statusbar_bg = "#2c2421"
+cmdline = "#68615e"
+cmdline_bg = "#f1efee"

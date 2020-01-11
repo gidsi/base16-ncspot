@@ -1,0 +1,19 @@
+# Base16 Synth Midnight Dark - ncspot color config
+# Michaël Ball (http://github.com/michael-ball/)
+
+[theme]
+background = "#040404"
+primary = "#dfdbdf"
+secondary = "#141414"
+title = "#efebef"
+playing = "#efebef"
+playing_bg = "#040404"
+highlight = "#dfdbdf"
+highlight_bg = "#242424"
+error = "#dfdbdf"
+error_bg = "#fffbff"
+statusbar = "#040404"
+statusbar_progress = "#efebef"
+statusbar_bg = "#efebef"
+cmdline = "#dfdbdf"
+cmdline_bg = "#040404"

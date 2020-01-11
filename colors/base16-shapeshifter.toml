@@ -1,0 +1,19 @@
+# Base16 Shapeshifter - ncspot color config
+# Tyler Benziger (http://tybenz.com)
+
+[theme]
+background = "#f9f9f9"
+primary = "#102015"
+secondary = "#e0e0e0"
+title = "#040404"
+playing = "#040404"
+playing_bg = "#f9f9f9"
+highlight = "#102015"
+highlight_bg = "#ababab"
+error = "#102015"
+error_bg = "#000000"
+statusbar = "#f9f9f9"
+statusbar_progress = "#040404"
+statusbar_bg = "#040404"
+cmdline = "#102015"
+cmdline_bg = "#f9f9f9"

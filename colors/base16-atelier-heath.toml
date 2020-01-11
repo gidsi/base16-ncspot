@@ -1,0 +1,19 @@
+# Base16 Atelier Heath - ncspot color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+background = "#1b181b"
+primary = "#ab9bab"
+secondary = "#292329"
+title = "#d8cad8"
+playing = "#d8cad8"
+playing_bg = "#1b181b"
+highlight = "#ab9bab"
+highlight_bg = "#695d69"
+error = "#ab9bab"
+error_bg = "#f7f3f7"
+statusbar = "#1b181b"
+statusbar_progress = "#d8cad8"
+statusbar_bg = "#d8cad8"
+cmdline = "#ab9bab"
+cmdline_bg = "#1b181b"

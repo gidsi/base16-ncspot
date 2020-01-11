@@ -1,0 +1,19 @@
+# Base16 Atelier Plateau Light - ncspot color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+background = "#f4ecec"
+primary = "#585050"
+secondary = "#e7dfdf"
+title = "#292424"
+playing = "#292424"
+playing_bg = "#f4ecec"
+highlight = "#585050"
+highlight_bg = "#8a8585"
+error = "#585050"
+error_bg = "#1b1818"
+statusbar = "#f4ecec"
+statusbar_progress = "#292424"
+statusbar_bg = "#292424"
+cmdline = "#585050"
+cmdline_bg = "#f4ecec"

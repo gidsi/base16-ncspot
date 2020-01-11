@@ -1,0 +1,19 @@
+# Base16 Spacemacs - ncspot color config
+# Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+
+[theme]
+background = "#1f2022"
+primary = "#a3a3a3"
+secondary = "#282828"
+title = "#e8e8e8"
+playing = "#e8e8e8"
+playing_bg = "#1f2022"
+highlight = "#a3a3a3"
+highlight_bg = "#444155"
+error = "#a3a3a3"
+error_bg = "#f8f8f8"
+statusbar = "#1f2022"
+statusbar_progress = "#e8e8e8"
+statusbar_bg = "#e8e8e8"
+cmdline = "#a3a3a3"
+cmdline_bg = "#1f2022"

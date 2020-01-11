@@ -1,0 +1,19 @@
+# Base16 Eighties - ncspot color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+background = "#2d2d2d"
+primary = "#d3d0c8"
+secondary = "#393939"
+title = "#e8e6df"
+playing = "#e8e6df"
+playing_bg = "#2d2d2d"
+highlight = "#d3d0c8"
+highlight_bg = "#515151"
+error = "#d3d0c8"
+error_bg = "#f2f0ec"
+statusbar = "#2d2d2d"
+statusbar_progress = "#e8e6df"
+statusbar_bg = "#e8e6df"
+cmdline = "#d3d0c8"
+cmdline_bg = "#2d2d2d"

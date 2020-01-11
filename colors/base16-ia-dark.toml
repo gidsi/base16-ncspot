@@ -1,0 +1,19 @@
+# Base16 iA Dark - ncspot color config
+# iA Inc. (modified by aramisgithub)
+
+[theme]
+background = "#1a1a1a"
+primary = "#cccccc"
+secondary = "#222222"
+title = "#e8e8e8"
+playing = "#e8e8e8"
+playing_bg = "#1a1a1a"
+highlight = "#cccccc"
+highlight_bg = "#1d414d"
+error = "#cccccc"
+error_bg = "#f8f8f8"
+statusbar = "#1a1a1a"
+statusbar_progress = "#e8e8e8"
+statusbar_bg = "#e8e8e8"
+cmdline = "#cccccc"
+cmdline_bg = "#1a1a1a"

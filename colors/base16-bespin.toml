@@ -1,0 +1,19 @@
+# Base16 Bespin - ncspot color config
+# Jan T. Sott
+
+[theme]
+background = "#28211c"
+primary = "#8a8986"
+secondary = "#36312e"
+title = "#9d9b97"
+playing = "#9d9b97"
+playing_bg = "#28211c"
+highlight = "#8a8986"
+highlight_bg = "#5e5d5c"
+error = "#8a8986"
+error_bg = "#baae9e"
+statusbar = "#28211c"
+statusbar_progress = "#9d9b97"
+statusbar_bg = "#9d9b97"
+cmdline = "#8a8986"
+cmdline_bg = "#28211c"

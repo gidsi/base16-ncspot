@@ -1,0 +1,19 @@
+# Base16 Grayscale Light - ncspot color config
+# Alexandre Gavioli (https://github.com/Alexx2/)
+
+[theme]
+background = "#f7f7f7"
+primary = "#464646"
+secondary = "#e3e3e3"
+title = "#252525"
+playing = "#252525"
+playing_bg = "#f7f7f7"
+highlight = "#464646"
+highlight_bg = "#b9b9b9"
+error = "#464646"
+error_bg = "#101010"
+statusbar = "#f7f7f7"
+statusbar_progress = "#252525"
+statusbar_bg = "#252525"
+cmdline = "#464646"
+cmdline_bg = "#f7f7f7"

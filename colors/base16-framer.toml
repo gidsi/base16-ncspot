@@ -1,0 +1,19 @@
+# Base16 Framer - ncspot color config
+# Framer (Maintained by Jesse Hoyos)
+
+[theme]
+background = "#181818"
+primary = "#d0d0d0"
+secondary = "#151515"
+title = "#e8e8e8"
+playing = "#e8e8e8"
+playing_bg = "#181818"
+highlight = "#d0d0d0"
+highlight_bg = "#464646"
+error = "#d0d0d0"
+error_bg = "#eeeeee"
+statusbar = "#181818"
+statusbar_progress = "#e8e8e8"
+statusbar_bg = "#e8e8e8"
+cmdline = "#d0d0d0"
+cmdline_bg = "#181818"

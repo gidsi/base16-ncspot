@@ -1,0 +1,19 @@
+# Base16 Decaf - ncspot color config
+# Alex Mirrington (https://github.com/alexmirrington)
+
+[theme]
+background = "#2d2d2d"
+primary = "#cccccc"
+secondary = "#393939"
+title = "#e0e0e0"
+playing = "#e0e0e0"
+playing_bg = "#2d2d2d"
+highlight = "#cccccc"
+highlight_bg = "#515151"
+error = "#cccccc"
+error_bg = "#ffffff"
+statusbar = "#2d2d2d"
+statusbar_progress = "#e0e0e0"
+statusbar_bg = "#e0e0e0"
+cmdline = "#cccccc"
+cmdline_bg = "#2d2d2d"

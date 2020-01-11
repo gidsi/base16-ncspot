@@ -1,0 +1,19 @@
+# Base16 Harmonic16 Dark - ncspot color config
+# Jannik Siebert (https://github.com/janniks)
+
+[theme]
+background = "#0b1c2c"
+primary = "#cbd6e2"
+secondary = "#223b54"
+title = "#e5ebf1"
+playing = "#e5ebf1"
+playing_bg = "#0b1c2c"
+highlight = "#cbd6e2"
+highlight_bg = "#405c79"
+error = "#cbd6e2"
+error_bg = "#f7f9fb"
+statusbar = "#0b1c2c"
+statusbar_progress = "#e5ebf1"
+statusbar_bg = "#e5ebf1"
+cmdline = "#cbd6e2"
+cmdline_bg = "#0b1c2c"

@@ -1,0 +1,19 @@
+# Base16 Darktooth - ncspot color config
+# Jason Milkins (https://github.com/jasonm23)
+
+[theme]
+background = "#1d2021"
+primary = "#a89984"
+secondary = "#32302f"
+title = "#d5c4a1"
+playing = "#d5c4a1"
+playing_bg = "#1d2021"
+highlight = "#a89984"
+highlight_bg = "#504945"
+error = "#a89984"
+error_bg = "#fdf4c1"
+statusbar = "#1d2021"
+statusbar_progress = "#d5c4a1"
+statusbar_bg = "#d5c4a1"
+cmdline = "#a89984"
+cmdline_bg = "#1d2021"

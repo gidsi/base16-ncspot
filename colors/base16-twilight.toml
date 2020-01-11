@@ -1,0 +1,19 @@
+# Base16 Twilight - ncspot color config
+# David Hart (https://github.com/hartbit)
+
+[theme]
+background = "#1e1e1e"
+primary = "#a7a7a7"
+secondary = "#323537"
+title = "#c3c3c3"
+playing = "#c3c3c3"
+playing_bg = "#1e1e1e"
+highlight = "#a7a7a7"
+highlight_bg = "#464b50"
+error = "#a7a7a7"
+error_bg = "#ffffff"
+statusbar = "#1e1e1e"
+statusbar_progress = "#c3c3c3"
+statusbar_bg = "#c3c3c3"
+cmdline = "#a7a7a7"
+cmdline_bg = "#1e1e1e"

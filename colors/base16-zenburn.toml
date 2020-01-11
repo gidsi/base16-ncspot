@@ -1,0 +1,19 @@
+# Base16 Zenburn - ncspot color config
+# elnawe
+
+[theme]
+background = "#383838"
+primary = "#dcdccc"
+secondary = "#404040"
+title = "#c0c0c0"
+playing = "#c0c0c0"
+playing_bg = "#383838"
+highlight = "#dcdccc"
+highlight_bg = "#606060"
+error = "#dcdccc"
+error_bg = "#ffffff"
+statusbar = "#383838"
+statusbar_progress = "#c0c0c0"
+statusbar_bg = "#c0c0c0"
+cmdline = "#dcdccc"
+cmdline_bg = "#383838"

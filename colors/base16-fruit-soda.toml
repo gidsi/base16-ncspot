@@ -1,0 +1,19 @@
+# Base16 Fruit Soda - ncspot color config
+# jozip
+
+[theme]
+background = "#f1ecf1"
+primary = "#515151"
+secondary = "#e0dee0"
+title = "#474545"
+playing = "#474545"
+playing_bg = "#f1ecf1"
+highlight = "#515151"
+highlight_bg = "#d8d5d5"
+error = "#515151"
+error_bg = "#2d2c2c"
+statusbar = "#f1ecf1"
+statusbar_progress = "#474545"
+statusbar_bg = "#474545"
+cmdline = "#515151"
+cmdline_bg = "#f1ecf1"

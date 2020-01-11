@@ -1,0 +1,19 @@
+# Base16 Gigavolt - ncspot color config
+# Aidan Swope (http://github.com/Whillikers)
+
+[theme]
+background = "#202126"
+primary = "#e9e7e1"
+secondary = "#2d303d"
+title = "#eff0f9"
+playing = "#eff0f9"
+playing_bg = "#202126"
+highlight = "#e9e7e1"
+highlight_bg = "#5a576e"
+error = "#e9e7e1"
+error_bg = "#f2fbff"
+statusbar = "#202126"
+statusbar_progress = "#eff0f9"
+statusbar_bg = "#eff0f9"
+cmdline = "#e9e7e1"
+cmdline_bg = "#202126"

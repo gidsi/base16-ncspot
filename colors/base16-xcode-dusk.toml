@@ -1,0 +1,19 @@
+# Base16 XCode Dusk - ncspot color config
+# Elsa Gonsiorowski (https://github.com/gonsie)
+
+[theme]
+background = "#282b35"
+primary = "#939599"
+secondary = "#3d4048"
+title = "#a9aaae"
+playing = "#a9aaae"
+playing_bg = "#282b35"
+highlight = "#939599"
+highlight_bg = "#53555d"
+error = "#939599"
+error_bg = "#bebfc2"
+statusbar = "#282b35"
+statusbar_progress = "#a9aaae"
+statusbar_bg = "#a9aaae"
+cmdline = "#939599"
+cmdline_bg = "#282b35"

@@ -1,0 +1,19 @@
+# Base16 Embers - ncspot color config
+# Jannik Siebert (https://github.com/janniks)
+
+[theme]
+background = "#16130f"
+primary = "#a39a90"
+secondary = "#2c2620"
+title = "#beb6ae"
+playing = "#beb6ae"
+playing_bg = "#16130f"
+highlight = "#a39a90"
+highlight_bg = "#433b32"
+error = "#a39a90"
+error_bg = "#dbd6d1"
+statusbar = "#16130f"
+statusbar_progress = "#beb6ae"
+statusbar_bg = "#beb6ae"
+cmdline = "#a39a90"
+cmdline_bg = "#16130f"

@@ -1,0 +1,19 @@
+# Base16 Snazzy - ncspot color config
+# Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+
+[theme]
+background = "#282a36"
+primary = "#e2e4e5"
+secondary = "#34353e"
+title = "#eff0eb"
+playing = "#eff0eb"
+playing_bg = "#282a36"
+highlight = "#e2e4e5"
+highlight_bg = "#43454f"
+error = "#e2e4e5"
+error_bg = "#f1f1f0"
+statusbar = "#282a36"
+statusbar_progress = "#eff0eb"
+statusbar_bg = "#eff0eb"
+cmdline = "#e2e4e5"
+cmdline_bg = "#282a36"

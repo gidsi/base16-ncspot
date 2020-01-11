@@ -1,0 +1,19 @@
+# Base16 Pop - ncspot color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+background = "#000000"
+primary = "#d0d0d0"
+secondary = "#202020"
+title = "#e0e0e0"
+playing = "#e0e0e0"
+playing_bg = "#000000"
+highlight = "#d0d0d0"
+highlight_bg = "#303030"
+error = "#d0d0d0"
+error_bg = "#ffffff"
+statusbar = "#000000"
+statusbar_progress = "#e0e0e0"
+statusbar_bg = "#e0e0e0"
+cmdline = "#d0d0d0"
+cmdline_bg = "#000000"

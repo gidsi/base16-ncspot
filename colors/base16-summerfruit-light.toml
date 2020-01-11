@@ -1,0 +1,19 @@
+# Base16 Summerfruit Light - ncspot color config
+# Christopher Corley (http://christop.club/)
+
+[theme]
+background = "#ffffff"
+primary = "#101010"
+secondary = "#e0e0e0"
+title = "#151515"
+playing = "#151515"
+playing_bg = "#ffffff"
+highlight = "#101010"
+highlight_bg = "#d0d0d0"
+error = "#101010"
+error_bg = "#202020"
+statusbar = "#ffffff"
+statusbar_progress = "#151515"
+statusbar_bg = "#151515"
+cmdline = "#101010"
+cmdline_bg = "#ffffff"

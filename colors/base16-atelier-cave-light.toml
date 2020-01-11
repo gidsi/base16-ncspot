@@ -1,0 +1,19 @@
+# Base16 Atelier Cave Light - ncspot color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+background = "#efecf4"
+primary = "#585260"
+secondary = "#e2dfe7"
+title = "#26232a"
+playing = "#26232a"
+playing_bg = "#efecf4"
+highlight = "#585260"
+highlight_bg = "#8b8792"
+error = "#585260"
+error_bg = "#19171c"
+statusbar = "#efecf4"
+statusbar_progress = "#26232a"
+statusbar_bg = "#26232a"
+cmdline = "#585260"
+cmdline_bg = "#efecf4"

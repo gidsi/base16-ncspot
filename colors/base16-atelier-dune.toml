@@ -1,0 +1,19 @@
+# Base16 Atelier Dune - ncspot color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+background = "#20201d"
+primary = "#a6a28c"
+secondary = "#292824"
+title = "#e8e4cf"
+playing = "#e8e4cf"
+playing_bg = "#20201d"
+highlight = "#a6a28c"
+highlight_bg = "#6e6b5e"
+error = "#a6a28c"
+error_bg = "#fefbec"
+statusbar = "#20201d"
+statusbar_progress = "#e8e4cf"
+statusbar_bg = "#e8e4cf"
+cmdline = "#a6a28c"
+cmdline_bg = "#20201d"

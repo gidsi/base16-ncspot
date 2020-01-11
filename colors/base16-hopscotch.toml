@@ -1,0 +1,19 @@
+# Base16 Hopscotch - ncspot color config
+# Jan T. Sott
+
+[theme]
+background = "#322931"
+primary = "#b9b5b8"
+secondary = "#433b42"
+title = "#d5d3d5"
+playing = "#d5d3d5"
+playing_bg = "#322931"
+highlight = "#b9b5b8"
+highlight_bg = "#5c545b"
+error = "#b9b5b8"
+error_bg = "#ffffff"
+statusbar = "#322931"
+statusbar_progress = "#d5d3d5"
+statusbar_bg = "#d5d3d5"
+cmdline = "#b9b5b8"
+cmdline_bg = "#322931"

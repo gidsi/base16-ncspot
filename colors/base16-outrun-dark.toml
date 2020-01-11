@@ -1,0 +1,19 @@
+# Base16 Outrun Dark - ncspot color config
+# Hugo Delahousse (http://github.com/hugodelahousse/)
+
+[theme]
+background = "#00002a"
+primary = "#d0d0fa"
+secondary = "#20204a"
+title = "#e0e0ff"
+playing = "#e0e0ff"
+playing_bg = "#00002a"
+highlight = "#d0d0fa"
+highlight_bg = "#30305a"
+error = "#d0d0fa"
+error_bg = "#f5f5ff"
+statusbar = "#00002a"
+statusbar_progress = "#e0e0ff"
+statusbar_bg = "#e0e0ff"
+cmdline = "#d0d0fa"
+cmdline_bg = "#00002a"

@@ -1,0 +1,19 @@
+# Base16 Heetch Light - ncspot color config
+# Geoffrey Teale (tealeg@gmail.com)
+
+[theme]
+background = "#feffff"
+primary = "#5a496e"
+secondary = "#392551"
+title = "#470546"
+playing = "#470546"
+playing_bg = "#feffff"
+highlight = "#5a496e"
+highlight_bg = "#7b6d8b"
+error = "#5a496e"
+error_bg = "#190134"
+statusbar = "#feffff"
+statusbar_progress = "#470546"
+statusbar_bg = "#470546"
+cmdline = "#5a496e"
+cmdline_bg = "#feffff"

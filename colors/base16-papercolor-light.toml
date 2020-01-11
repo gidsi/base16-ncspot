@@ -1,0 +1,19 @@
+# Base16 PaperColor Light - ncspot color config
+# Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+
+[theme]
+background = "#eeeeee"
+primary = "#878787"
+secondary = "#af0000"
+title = "#005f87"
+playing = "#005f87"
+playing_bg = "#eeeeee"
+highlight = "#878787"
+highlight_bg = "#008700"
+error = "#878787"
+error_bg = "#444444"
+statusbar = "#eeeeee"
+statusbar_progress = "#005f87"
+statusbar_bg = "#005f87"
+cmdline = "#878787"
+cmdline_bg = "#eeeeee"

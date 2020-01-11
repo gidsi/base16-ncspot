@@ -1,0 +1,19 @@
+# Base16 Github - ncspot color config
+# Defman21
+
+[theme]
+background = "#ffffff"
+primary = "#333333"
+secondary = "#f5f5f5"
+title = "#ffffff"
+playing = "#ffffff"
+playing_bg = "#ffffff"
+highlight = "#333333"
+highlight_bg = "#c8c8fa"
+error = "#333333"
+error_bg = "#ffffff"
+statusbar = "#ffffff"
+statusbar_progress = "#ffffff"
+statusbar_bg = "#ffffff"
+cmdline = "#333333"
+cmdline_bg = "#ffffff"

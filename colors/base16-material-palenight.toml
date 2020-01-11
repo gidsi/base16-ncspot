@@ -1,0 +1,19 @@
+# Base16 Material Palenight - ncspot color config
+# Nate Peterson
+
+[theme]
+background = "#292d3e"
+primary = "#959dcb"
+secondary = "#444267"
+title = "#959dcb"
+playing = "#959dcb"
+playing_bg = "#292d3e"
+highlight = "#959dcb"
+highlight_bg = "#32374d"
+error = "#959dcb"
+error_bg = "#ffffff"
+statusbar = "#292d3e"
+statusbar_progress = "#959dcb"
+statusbar_bg = "#959dcb"
+cmdline = "#959dcb"
+cmdline_bg = "#292d3e"

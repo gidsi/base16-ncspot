@@ -1,0 +1,19 @@
+# Base16 Circus - ncspot color config
+# Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+
+[theme]
+background = "#191919"
+primary = "#a7a7a7"
+secondary = "#202020"
+title = "#808080"
+playing = "#808080"
+playing_bg = "#191919"
+highlight = "#a7a7a7"
+highlight_bg = "#303030"
+error = "#a7a7a7"
+error_bg = "#ffffff"
+statusbar = "#191919"
+statusbar_progress = "#808080"
+statusbar_bg = "#808080"
+cmdline = "#a7a7a7"
+cmdline_bg = "#191919"

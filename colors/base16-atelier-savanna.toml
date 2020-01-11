@@ -1,0 +1,19 @@
+# Base16 Atelier Savanna - ncspot color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+background = "#171c19"
+primary = "#87928a"
+secondary = "#232a25"
+title = "#dfe7e2"
+playing = "#dfe7e2"
+playing_bg = "#171c19"
+highlight = "#87928a"
+highlight_bg = "#526057"
+error = "#87928a"
+error_bg = "#ecf4ee"
+statusbar = "#171c19"
+statusbar_progress = "#dfe7e2"
+statusbar_bg = "#dfe7e2"
+cmdline = "#87928a"
+cmdline_bg = "#171c19"

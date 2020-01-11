@@ -1,0 +1,19 @@
+# Base16 Railscasts - ncspot color config
+# Ryan Bates (http://railscasts.com)
+
+[theme]
+background = "#2b2b2b"
+primary = "#e6e1dc"
+secondary = "#272935"
+title = "#f4f1ed"
+playing = "#f4f1ed"
+playing_bg = "#2b2b2b"
+highlight = "#e6e1dc"
+highlight_bg = "#3a4055"
+error = "#e6e1dc"
+error_bg = "#f9f7f3"
+statusbar = "#2b2b2b"
+statusbar_progress = "#f4f1ed"
+statusbar_bg = "#f4f1ed"
+cmdline = "#e6e1dc"
+cmdline_bg = "#2b2b2b"

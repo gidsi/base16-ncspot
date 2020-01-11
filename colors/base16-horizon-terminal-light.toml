@@ -1,0 +1,19 @@
+# Base16 Horizon Light - ncspot color config
+# Michaël Ball (http://github.com/michael-ball/)
+
+[theme]
+background = "#fdf0ed"
+primary = "#403c3d"
+secondary = "#fadad1"
+title = "#302c2d"
+playing = "#302c2d"
+playing_bg = "#fdf0ed"
+highlight = "#403c3d"
+highlight_bg = "#f9cbbe"
+error = "#403c3d"
+error_bg = "#201c1d"
+statusbar = "#fdf0ed"
+statusbar_progress = "#302c2d"
+statusbar_bg = "#302c2d"
+cmdline = "#403c3d"
+cmdline_bg = "#fdf0ed"

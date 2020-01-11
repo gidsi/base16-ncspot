@@ -1,0 +1,19 @@
+# Base16 Atlas - ncspot color config
+# Alex Lende (https://ajlende.com)
+
+[theme]
+background = "#002635"
+primary = "#a1a19a"
+secondary = "#00384d"
+title = "#e6e6dc"
+playing = "#e6e6dc"
+playing_bg = "#002635"
+highlight = "#a1a19a"
+highlight_bg = "#517f8d"
+error = "#a1a19a"
+error_bg = "#fafaf8"
+statusbar = "#002635"
+statusbar_progress = "#e6e6dc"
+statusbar_bg = "#e6e6dc"
+cmdline = "#a1a19a"
+cmdline_bg = "#002635"

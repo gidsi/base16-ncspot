@@ -1,0 +1,19 @@
+# Base16 Atelier Lakeside Light - ncspot color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+background = "#ebf8ff"
+primary = "#516d7b"
+secondary = "#c1e4f6"
+title = "#1f292e"
+playing = "#1f292e"
+playing_bg = "#ebf8ff"
+highlight = "#516d7b"
+highlight_bg = "#7ea2b4"
+error = "#516d7b"
+error_bg = "#161b1d"
+statusbar = "#ebf8ff"
+statusbar_progress = "#1f292e"
+statusbar_bg = "#1f292e"
+cmdline = "#516d7b"
+cmdline_bg = "#ebf8ff"

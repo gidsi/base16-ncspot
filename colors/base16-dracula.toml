@@ -1,0 +1,19 @@
+# Base16 Dracula - ncspot color config
+# Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+
+[theme]
+background = "#282936"
+primary = "#e9e9f4"
+secondary = "#3a3c4e"
+title = "#f1f2f8"
+playing = "#f1f2f8"
+playing_bg = "#282936"
+highlight = "#e9e9f4"
+highlight_bg = "#4d4f68"
+error = "#e9e9f4"
+error_bg = "#f7f7fb"
+statusbar = "#282936"
+statusbar_progress = "#f1f2f8"
+statusbar_bg = "#f1f2f8"
+cmdline = "#e9e9f4"
+cmdline_bg = "#282936"

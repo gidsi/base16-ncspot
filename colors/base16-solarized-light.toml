@@ -1,0 +1,19 @@
+# Base16 Solarized Light - ncspot color config
+# Ethan Schoonover (modified by aramisgithub)
+
+[theme]
+background = "#fdf6e3"
+primary = "#586e75"
+secondary = "#eee8d5"
+title = "#073642"
+playing = "#073642"
+playing_bg = "#fdf6e3"
+highlight = "#586e75"
+highlight_bg = "#93a1a1"
+error = "#586e75"
+error_bg = "#002b36"
+statusbar = "#fdf6e3"
+statusbar_progress = "#073642"
+statusbar_bg = "#073642"
+cmdline = "#586e75"
+cmdline_bg = "#fdf6e3"

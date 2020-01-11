@@ -1,0 +1,19 @@
+# Base16 PhD - ncspot color config
+# Hennig Hasemann (http://leetless.de/vim.html)
+
+[theme]
+background = "#061229"
+primary = "#b8bbc2"
+secondary = "#2a3448"
+title = "#dbdde0"
+playing = "#dbdde0"
+playing_bg = "#061229"
+highlight = "#b8bbc2"
+highlight_bg = "#4d5666"
+error = "#b8bbc2"
+error_bg = "#ffffff"
+statusbar = "#061229"
+statusbar_progress = "#dbdde0"
+statusbar_bg = "#dbdde0"
+cmdline = "#b8bbc2"
+cmdline_bg = "#061229"

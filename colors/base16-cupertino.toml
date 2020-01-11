@@ -1,0 +1,19 @@
+# Base16 Cupertino - ncspot color config
+# Defman21
+
+[theme]
+background = "#ffffff"
+primary = "#404040"
+secondary = "#c0c0c0"
+title = "#404040"
+playing = "#404040"
+playing_bg = "#ffffff"
+highlight = "#404040"
+highlight_bg = "#c0c0c0"
+error = "#404040"
+error_bg = "#5e5e5e"
+statusbar = "#ffffff"
+statusbar_progress = "#404040"
+statusbar_bg = "#404040"
+cmdline = "#404040"
+cmdline_bg = "#ffffff"

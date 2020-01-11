@@ -1,0 +1,19 @@
+# Base16 Seti UI - ncspot color config
+# 
+
+[theme]
+background = "#151718"
+primary = "#d6d6d6"
+secondary = "#282a2b"
+title = "#eeeeee"
+playing = "#eeeeee"
+playing_bg = "#151718"
+highlight = "#d6d6d6"
+highlight_bg = "#3b758c"
+error = "#d6d6d6"
+error_bg = "#ffffff"
+statusbar = "#151718"
+statusbar_progress = "#eeeeee"
+statusbar_bg = "#eeeeee"
+cmdline = "#d6d6d6"
+cmdline_bg = "#151718"

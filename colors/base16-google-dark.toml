@@ -1,0 +1,19 @@
+# Base16 Google Dark - ncspot color config
+# Seth Wright (http://sethawright.com)
+
+[theme]
+background = "#1d1f21"
+primary = "#c5c8c6"
+secondary = "#282a2e"
+title = "#e0e0e0"
+playing = "#e0e0e0"
+playing_bg = "#1d1f21"
+highlight = "#c5c8c6"
+highlight_bg = "#373b41"
+error = "#c5c8c6"
+error_bg = "#ffffff"
+statusbar = "#1d1f21"
+statusbar_progress = "#e0e0e0"
+statusbar_bg = "#e0e0e0"
+cmdline = "#c5c8c6"
+cmdline_bg = "#1d1f21"
